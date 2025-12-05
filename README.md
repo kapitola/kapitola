@@ -2,7 +2,8 @@
 - 👀 I’m interested in Blockchain & Web3
 - 🌱 I’m currently learning blockhain industry
 - 💞️ I’m looking to collaborate on Web3
-- 📫 How to reach me on gmail mihaillihina@gmail.com
+
+
 
 <!---
 kapitola/kapitola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
